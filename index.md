@@ -1,5 +1,6 @@
 # Gaurav Nair's User Page
 
+![Gaurav's profile picture](Picture.jpeg)
 ## Introduction
 Hello, I'm **Gaurav Nair**, a passionate programmer and a third-year **Mathematics and Computer Science** student at UC San Diego. I am fascinated by the ability of technology to build out unimaginable and innovative new ideas and solutions, and am interested in **data analysis, software development**, and **product management**.
 
