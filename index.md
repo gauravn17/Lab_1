@@ -15,6 +15,7 @@ Hello, I'm **Gaurav Nair**, a passionate programmer and a third-year **Mathemati
 - I enjoy **hiking**, **soccer**, and **tennis**, as well as pretty much anything else outdoors! 
 - I love taking **long walks by the beach**.
 - I enjoy reading **self-help books** and playing **chess**.
+- My favorite website is [ycombinator.com](https://www.ycombinator.com)
 
 ## My Goals
 1. Contribute to open-source projects 🌍
