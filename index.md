@@ -1,4 +1,4 @@
-![Gaurav Nair Banner](https://via.placeholder.com/1000x200.png?text=Welcome+to+My+GitHub+Page)
+![Gaurav Nair Banner](Picture.jpeg)
 
 # Gaurav Nair's User Page
 
